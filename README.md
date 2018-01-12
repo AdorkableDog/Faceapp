@@ -44,3 +44,5 @@ FaceppSDK是适用android平台下的人脸检测SDK，提供aar，jar，c的三
 2. 申请[key和secret](https://console.faceplusplus.com.cn/dashboard),用于在线授权。
 3. 申请[Bundle ID（applicationId）](https://console.faceplusplus.com.cn/dashboard)，用于模型的验证。
 
+ 修改配置文件，使用者去开发者平台上申请对应的[API_KEY , API_SECRET]值，填写的Util文件中。
+
